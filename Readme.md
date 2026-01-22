@@ -16,3 +16,9 @@ O seu público-alvo são pessoas com espírito jovem, aventureiras e que gostam 
 ##Estudo
 
 Tenho como objetivo criar a landing page com os conhecimentos que adquiri até aqui, usando HTML e CSS puro, sem o auxílio de IA para sua estruturação, escrevendo desde o começo, me obrigando a pesquisar como fazer tal coisa, aprendendo como de fato fazer e aplicando diretamente.
+
+###Primeiro Passo 
+
+A estrutura do site é simples. 
+Fiz um html facil de compreender e respeitando sua semantica. 
+Usei Sections no Header e no Footer porque não quero que acompanhem a pagina no seu scroll, mas dei IDs para identificalos. 
